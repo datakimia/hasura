@@ -1,0 +1,4 @@
+table:
+  name: product_owner
+  schema: public
+
